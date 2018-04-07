@@ -10,4 +10,4 @@ npm i
 npm start
 ```
 
-<i>the app will be available on port 3000</i>
+<i>the app will be available on <code>http://localhost:3000/</code></i>
