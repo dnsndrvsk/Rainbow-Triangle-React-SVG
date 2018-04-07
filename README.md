@@ -1,5 +1,5 @@
 
-![alt text](http://i104.fastpic.ru/big/2018/0407/c0/d958bef0a34835a99bfe30a8247134c0.gif)
+<div align="center">![alt text](http://i104.fastpic.ru/big/2018/0407/c0/d958bef0a34835a99bfe30a8247134c0.gif)</div>
 
 <i>Launching:</i>
 
