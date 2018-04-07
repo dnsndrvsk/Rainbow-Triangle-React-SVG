@@ -1,7 +1,6 @@
 
 
 <blockquote>
-# Rainbow-Triangle-React-SVG
 <h2>Launching:</h2>
 
 ```bash
