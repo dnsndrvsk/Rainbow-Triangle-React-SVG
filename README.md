@@ -1,7 +1,6 @@
 
 
-<blockquote>
-<h2>Launching:</h2>
+<i>Launching:</i>
 
 ```bash
 npm i
@@ -11,5 +10,4 @@ npm i
 npm start
 ```
 
-the app will be available on port 3000
-</blockquote>
+<i>the app will be available on port 3000</i>
